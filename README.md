@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="metaread-social" src="https://github.com/user-attachments/assets/052fc2d7-9f3b-4cf1-a55e-34c14c3f8363" />
+<img width="1960" height="520" alt="metaread-horizontal" src="https://github.com/user-attachments/assets/727fc6e5-f8bd-46ea-b221-2f69683f8e8c" />
 # METAREAD
 
 Установка - pip install pillow
