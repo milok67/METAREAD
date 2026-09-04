@@ -1,10 +1,10 @@
 # METAREAD
 <img width="1960" height="520" alt="metaread-horizontal" src="https://github.com/user-attachments/assets/727fc6e5-f8bd-46ea-b221-2f69683f8e8c" />
 
+<img width="600" height="471" alt="image" src="https://github.com/user-attachments/assets/3d2b560d-5a38-409c-867b-28c0a669db3f" />
+
 Установка - pip install pillow
 Запуск - python metaread.py
-
-<img width="600" height="471" alt="image" src="https://github.com/user-attachments/assets/3d2b560d-5a38-409c-867b-28c0a669db3f" />
 
 # METAREAD — Анализатор метаданных изображений
 **METAREAD** — это Python-инструмент для извлечения и анализа метаданных из изображений. Программа позволяет получить подробную информацию о файле, изображении и встроенных метаданных, включая EXIF, GPS, IPTC, XMP и ICC.
