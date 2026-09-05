@@ -1,7 +1,35 @@
 
 <img width="1960" height="520" alt="metaread-horizontal" src="https://github.com/user-attachments/assets/727fc6e5-f8bd-46ea-b221-2f69683f8e8c" />
 
-# METAREAD v0.7.0 Beta
+> [!IMPORTANT]
+> ## TONFORGE v0.9.0 Beta
+<img width="681" height="227" alt="image" src="https://github.com/user-attachments/assets/c56b921d-9ec2-44c9-8111-c5ae9956534a" />
+
+**1️⃣ First Improvements**
+Added colored console UI and METAREAD v0.9.0 Beta branding.
+Added RU/EN language selection with saved preference.
+Added batch processing for multiple images.
+Added a GPS privacy warning when exact coordinates are detected.
+Added one-click creation of a metadata-free copy while preserving the correct image orientation.
+Fixed compatibility with upcoming Pillow versions.
+Tested everything on a real JPEG with EXIF + GPS metadata.
+
+**2️⃣ Windowed Interface**
+Reworked the output into paginated terminal windows.
+Added navigation with Enter / n / p / q.
+Large metadata sections are automatically split across multiple pages.
+Full .txt reports are still saved without pagination or ANSI codes.
+Added automatic frame-width validation and fixed an overflow bug caused by long headers.
+
+**3️⃣ Fixes After Real-World Testing**
+Fixed Windows path handling — paths like C:\Users\... are no longer corrupted.
+Replaced shlex.split() with a custom argument parser that preserves backslashes.
+Improved handling of paths with spaces, quotes, and multiple files.
+Language selection is now shown on every launch.
+The previously selected language is used as the default when pressing Enter
+
+
+# METAREAD v0.8.0 Beta
 <img width="600" height="471" alt="image" src="https://github.com/user-attachments/assets/3d2b560d-5a38-409c-867b-28c0a669db3f" />
 
 Установка - pip install pillow
