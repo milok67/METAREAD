@@ -29,7 +29,8 @@ Language selection is now shown on every launch.
 The previously selected language is used as the default when pressing Enter
 
 
-# METAREAD v0.8.0 Beta
+> [!IMPORTANT]
+> ## TONFORGE v0.8.0 Beta
 <img width="600" height="471" alt="image" src="https://github.com/user-attachments/assets/3d2b560d-5a38-409c-867b-28c0a669db3f" />
 
 Установка - pip install pillow
