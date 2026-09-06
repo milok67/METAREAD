@@ -2,7 +2,7 @@
 <img width="1960" height="520" alt="metaread-horizontal" src="https://github.com/user-attachments/assets/727fc6e5-f8bd-46ea-b221-2f69683f8e8c" />
 
 > [!IMPORTANT]
-> ## TONFORGE v0.9.0 Beta
+> ## METAREAD v0.9.0 Beta
 <img width="681" height="227" alt="image" src="https://github.com/user-attachments/assets/c56b921d-9ec2-44c9-8111-c5ae9956534a" />
 
 **1️⃣ First Improvements**
@@ -33,7 +33,7 @@ The previously selected language is used as the default when pressing Enter
 
 
 > [!IMPORTANT]
-> ## TONFORGE v0.8.0 Beta
+> ## METAREAD v0.8.0 Beta
 <img width="600" height="471" alt="image" src="https://github.com/user-attachments/assets/3d2b560d-5a38-409c-867b-28c0a669db3f" />
 
 Установка - pip install pillow
